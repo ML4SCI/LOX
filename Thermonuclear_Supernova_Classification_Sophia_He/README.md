@@ -1,6 +1,10 @@
 # Uncovering the Enigma of Type-Ia Supernovae: Thermonuclear Supernova Classification via their Nuclear Signatures
 #### Google Summer of Code: Sophia He
-#### 
+#### Mentors: Richard Miller, James Mastandrea, Patrick Peplowski
+
+This repository contains the Jupyter Notebook developed for the Google Summer of Code program for the Lunar Occulation eXplorer project at Johns Hopkins Applied Physics Laboratory.
+The purpose of the project is to investigate machine learning as a potential route for thermonuclear supernova research and classification.
+The notebook consists of a cluster-predict pipeline, first identifying clusters in the dataset (from observable parameters), then utilizing multi-output regression for physical parameter predictions.
 
 
 **Instructions**
